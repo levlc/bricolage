@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-28T18:51:36+03:00
+modified: 2021-02-28T19:16:49+03:00
 ---
 
 ---
@@ -8,7 +8,7 @@ object: James Hillman
 --- 
 # solipsism is the philosophical idea that only one's mind is sure to exist
 ## as an epistemological position, solipsism holds that knowledge of anything outside one's own mind is unsure
-## the external world and other minds cannot be known and might not exist outside the mind @mention  
+## the external world and other minds cannot be known and might not exist outside the mind @note
 ## [[empiricism prevents solipsism]]  
  
 *[[134F]]: [[healing fiction case history Freud]]  
