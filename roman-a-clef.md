@@ -1,9 +1,11 @@
 ---
+modified: 2021-02-28T18:48:32+03:00
 tags: [empiricism]
-modified: 2021-02-28T18:45:57+03:00
 ---
 
 ---
+tags: [empiricism]
+modified: 2021-02-28T18:45:57+03:00
 subject: healing fiction
 object: James Hillman
 --- 
